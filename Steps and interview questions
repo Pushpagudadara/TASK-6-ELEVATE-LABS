@@ -1,0 +1,160 @@
+Task 6: Create a Strong Password and Evaluate Its Strength step by step.
+
+
+✅ Task Steps & Solution
+
+1. Create multiple passwords with varying complexity
+
+Examples:
+
+Weak: 12345, password, qwerty
+
+Medium: Sharan123, India2025
+
+Strong: S@ran!2025#Secure, Xy_9*Lm$4oPq
+
+
+
+---
+
+2. Use variations (uppercase, lowercase, numbers, symbols, length)
+
+Mix of uppercase + lowercase: CyberTask
+
+Add numbers: CyberTask2025
+
+Add symbols: Cyb3r@Task!25
+
+Increase length: MyStrongP@ssword!2025_Secure
+
+
+
+---
+
+3. Test each password on a strength checker
+
+Use free tools:
+
+passwordmeter.com
+
+bitwarden.com/password-strength
+
+
+Example test results (approximate):
+
+12345 → Very Weak (Easily cracked by brute force in < 1 sec)
+
+Sharan123 → Weak (Dictionary-based attack possible)
+
+S@ran!2025#Secure → Strong (High entropy, resistant to brute force)
+
+Xy_9*Lm$4oPq → Very Strong (Random, complex, >12 chars)
+
+
+
+---
+
+4. Identify best practices for strong passwords
+
+Use at least 12–16 characters
+
+Combine uppercase, lowercase, numbers, symbols
+
+Avoid dictionary words or predictable patterns (password123)
+
+Don’t reuse passwords across accounts
+
+Use a password manager to store and generate secure passwords
+
+
+
+---
+
+5. Research common password attacks
+
+Brute Force Attack: Trying every possible combination until the correct one is found.
+
+Dictionary Attack: Using common words, leaked password lists, and variations.
+
+Phishing: Tricking users into revealing their passwords.
+
+Credential Stuffing: Using stolen username-password combos from other breaches.
+
+
+
+---
+
+6. How complexity affects security
+
+Short/simple password = quick to crack.
+
+Long + random + mixed characters = exponentially harder to crack.
+
+Example:
+
+123456 (6 digits) = cracked instantly
+
+Tr0ub4dor&3 (11 chars) = hours to days
+
+MyS3cur3P@ssword!2025 (20 chars) = practically uncrackable in reasonable time
+
+
+# Task 6 - Strong Password Creation & Evaluation
+
+## Passwords Tested
+1. 12345 → Very Weak  
+2. Sharan123 → Weak  
+3. CyberTask2025 → Medium  
+4. S@ran!2025#Secure → Strong  
+5. Xy_9*Lm$4oPq → Very Strong  
+
+## Findings
+- Password strength increases with **length** and **complexity**.
+- Simple passwords are vulnerable to brute force and dictionary attacks.
+- Strong passwords combine uppercase, lowercase, numbers, symbols, and are at least 12+ characters long.
+
+## Best Practices
+- Use long, random, unique passwords.
+- Avoid dictionary words & personal info.
+- Use password managers for secure storage.
+- Enable multi-factor authentication (MFA) wherever possible.
+
+## Conclusion
+Password complexity directly improves resistance against brute force and dictionary attacks. Strong password habits are essential for cybersecurity.
+
+
+---
+
+🎯 Interview Questions (with simple answers)
+
+1. What makes a password strong?
+Length (12+), complexity (upper, lower, numbers, symbols), randomness.
+
+
+2. What are common password attacks?
+Brute force, dictionary, phishing, credential stuffing.
+
+
+3. Why is password length important?
+Longer passwords take exponentially more time to crack.
+
+
+4. What is a dictionary attack?
+Attack using common words and leaked password lists.
+
+
+5. What is multi-factor authentication?
+Extra security layer beyond password (e.g., OTP, biometrics).
+
+
+6. How do password managers help?
+Generate, store, and autofill strong unique passwords.
+
+
+7. What are passphrases?
+Longer passwords made from random words (e.g., HorseBatteryStaple2025!).
+
+
+8. What are common mistakes in password creation?
+Using short, predictable, reused passwords, or personal info.
+
